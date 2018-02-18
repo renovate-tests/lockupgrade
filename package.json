@@ -9,6 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "renovate": {
+    "recreateClosed": true
+  },
   "dependencies": {
     "@angular/cli": "1.6.8"
   }
